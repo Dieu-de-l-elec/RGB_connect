@@ -9,7 +9,7 @@ Controlling the ESP32 is possible from web paged hosted on the ESP32. With it's 
 # Key features
 - **ESP32 C3** supermini devboard based
 - Input voltage from **6 to 24V** (recommended)
-- screw terminal
+- screw terminal for Input voltage
 - L7805AB **5.0V LDO voltage regulator**
 - **x5 P-channel MOSFETs** (AO3400)
 - **x2 8P FPCs** and **2.54mm Header** for accessing IOs including I²C lines.
