@@ -46,17 +46,16 @@ Designed in Fusion 360
 
 
 <img width="1075" height="711" alt="RGB CONNECT FINAL RENDERS 02" src="https://github.com/user-attachments/assets/acfcf8b7-05be-4c69-890c-c08eee8d46cc" />
+<img width="1109" height="726" alt="RGB CONNECT FINAL RENDERS 04" src="https://github.com/user-attachments/assets/af6a4c13-016d-41ec-a5d0-a40d726e27b4" />
 
-<img width="1403" height="736" alt="RGB CONNECT FINAL RENDERS 04" src="https://github.com/user-attachments/assets/e533c55b-b7f9-4968-921d-366ce8fbaa43" />
 
 <img width="1436" height="738" alt="RGB CONNECT FINAL RENDERS 07" src="https://github.com/user-attachments/assets/19abd86f-a6af-4293-9436-7808cc06cd8a" />
 <img width="1657" height="747" alt="RGB CONNECT FINAL RENDERS 03" src="https://github.com/user-attachments/assets/7d6d3c41-bb7d-440e-a2af-e5ddb2e5cd88" />
 
+<img width="1105" height="721" alt="RGB CONNECT FINAL RENDERS 08" src="https://github.com/user-attachments/assets/ba1ad480-dffa-440d-9e51-62b4fd50f51b" />
 
 <img width="1598" height="614" alt="RGB CONNECT FINAL RENDERS 08" src="https://github.com/user-attachments/assets/891b8171-4a01-45d6-be7d-8e512170bc5f" />
 
 
 <img width="1174" height="793" alt="RGB CONNECT FINAL RENDERS 05" src="https://github.com/user-attachments/assets/dbcb34cb-808a-4615-9c57-279e16e9b651" />
-
-<img width="1260" height="793" alt="RGB CONNECT FINAL RENDERS 06" src="https://github.com/user-attachments/assets/1af60279-d025-44ff-9f86-85fc53e3d76c" />
 
