@@ -9,7 +9,6 @@ Qty, Component, Attribute, Value
 1, Capacitor, 0805, 22µF
 2, Diode, SOD-123, 1N5819HW-7-F
 2, FPC connector, FPC-05F-8PH20, 8P
-2, 2.54mm Male Header,, 6P
 1, Screw Terminal, WJ128V-5.0-2P, 2P
 5, AO3400, SOT-23-3,
 5, Resistor, 0603, 1.2K
