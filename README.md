@@ -1,7 +1,7 @@
 # RGB_connect: An ESP32 powered RGB LED driver with 5 channels:
 
 This RGB LED driver built around an ESP32 comes with 5 P channel Mosfets and a 3.3V LDO voltage regulator.
-Controlling the ESP32 is possible from web paged hosted on the ESP32. With it's 5 Mosfets, this module can control everything that needs switching 5 high sink loads (up to 5 Amps), but this board has been specifically design for the 3 R, G and B channels, with the 2 other channels remaining for white LED strips.
+Controlling the ESP32 is possible thanks to a Blynk Dashboard accessible from a phone or a laptop. With it's 5 Mosfets, this module can control everything that needs switching 5 high sink loads (up to 5 Amps), but this board has been specifically design for the 3 R, G and B channels, with the 2 other channels remaining for white LED strips.
 
 
 <img width="310" height="722" alt="PCB RENDER 01" src="https://github.com/user-attachments/assets/1863d440-7284-4b44-a0ee-216b3be21bee" /> <img width="315" height="722" alt="RGB CONNECT FINAL RENDERS 01" src="https://github.com/user-attachments/assets/054c770d-ca8d-4361-9225-c08422604065" />
@@ -13,6 +13,7 @@ Controlling the ESP32 is possible from web paged hosted on the ESP32. With it's 
 - L7805AB **5.0V LDO voltage regulator**
 - **x5 P-channel MOSFETs** (AO3400)
 - **x2 8P FPCs** and **2.54mm Header** for accessing IOs including I²C lines.
+- **Blynk integration** for easy control
 
 # PCB Design
 2 Layer PCB designed in EASYEDA (Pro edition)
