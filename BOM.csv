@@ -1,18 +1,18 @@
-Qty, Component, Attribute, Value,
-1, ESP32 C3 supermini board,,,	
-2, 2.54mm Male Header,, 2P,
-1, 2.54mm Male Header,, 4P,
-2, 2.54mm Male Header,, 6P,
-2, Capacitor, CAP-SMD_BD10.0-L10.3-W10.3-LS11.0-FD	330uF	35TZV330M10X10.5	Rubycon, 330µF,
-2, Capacitor, 0805, 10µF,
-2, Capacitor, 0603, 100nF,
-1, Capacitor, 0805, 22µF,
-2, Diode, SOD-123, 1N5819HW-7-F,
-2, FPC connector, FPC-05F-8PH20, 8P,
-2, 2.54mm Male Header,, 6P,
-1, Screw Terminal, WJ128V-5.0-2P, 2P,
-5, AO3400, SOT-23-3,,
-5, Resistor, 0603, 1.2K,
-5, Resistor, 0603, 20K,
-1, LDO Voltage regulator,L7805ABD2T-TR, 5.0V,
+Qty, Component, Attribute, Value
+1, ESP32 C3 supermini board,,
+2, 2.54mm Male Header,, 2P
+1, 2.54mm Male Header,, 4P
+2, 2.54mm Male Header,, 6P
+2, Capacitor, CAP-SMD_BD10.0-L10.3-W10.3-LS11.0-FD	330uF	35TZV330M10X10.5	Rubycon, 330µF
+2, Capacitor, 0805, 10µF
+2, Capacitor, 0603, 100nF
+1, Capacitor, 0805, 22µF
+2, Diode, SOD-123, 1N5819HW-7-F
+2, FPC connector, FPC-05F-8PH20, 8P
+2, 2.54mm Male Header,, 6P
+1, Screw Terminal, WJ128V-5.0-2P, 2P
+5, AO3400, SOT-23-3,
+5, Resistor, 0603, 1.2K
+5, Resistor, 0603, 20K
+1, LDO Voltage regulator,L7805ABD2T-TR, 5.0V
 
