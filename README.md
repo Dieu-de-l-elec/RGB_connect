@@ -67,9 +67,8 @@ Be careful when connecting the 12V power supply!
 
 # Once built:
 
-The case is printed with a duo beige brown, and it blends very well with the black soldermask and FR4. 
+The case is printed with a duo beige-brown, and it looks pretty good with the black soldermask and FR4. 
 I've also designed and 3d printed a brown bracket.
-
 
 ![20251230_125217](https://github.com/user-attachments/assets/29fd04e0-abe7-40b3-aade-988b5edd9047)
 ![20251230_125325](https://github.com/user-attachments/assets/83ea6b9c-02f8-4920-9da5-3fac09b76d6e)
