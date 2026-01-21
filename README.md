@@ -60,3 +60,32 @@ Designed in Fusion 360
 
 <img width="1174" height="793" alt="RGB CONNECT FINAL RENDERS 05" src="https://github.com/user-attachments/assets/dbcb34cb-808a-4615-9c57-279e16e9b651" />
 
+# Important notice:
+
+When carefully looking at the PCBs, I noticed that the silkscreen on the screw terminal (+ and -) where flipped! 
+Be careful when connecting the 12V power supply!
+
+# Once built:
+
+The case is printed with a duo beige brown, and it blends very well with the black soldermask and FR4. 
+I've also designed and 3d printed a brown bracket.
+
+
+![20251230_125217](https://github.com/user-attachments/assets/29fd04e0-abe7-40b3-aade-988b5edd9047)
+![20251230_125325](https://github.com/user-attachments/assets/83ea6b9c-02f8-4920-9da5-3fac09b76d6e)
+![20260104_153213](https://github.com/user-attachments/assets/3f60fc92-3ee8-4cac-92da-44a474fa90ee)
+![20260104_153311](https://github.com/user-attachments/assets/21a858a3-9391-43d6-98e4-68c075e9c265)
+![build01](https://github.com/user-attachments/assets/c1795fbe-272f-41a9-87ec-1e9d3c6915fa)
+![build04](https://github.com/user-attachments/assets/6db7450d-837e-4d0d-ad08-8f3bede6a047)
+
+# demo with the blynk app:
+
+<img width="1831" height="1012" alt="working" src="https://github.com/user-attachments/assets/1d086cd2-2857-4f47-9012-625a81e69d69" />
+
+
+
+
+
+
+
+
